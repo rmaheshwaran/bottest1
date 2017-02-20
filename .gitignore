@@ -1,0 +1,15 @@
+node_modules
+/.vs/botchat/v14/.suo
+/.vs/config/applicationhost.config
+/botchat.sln
+/Web.config
+/local
+/.vscode
+npm-debug.log
+test/src
+npm
+cdn
+webpacked
+built
+botchat.js
+botchat.js.map
